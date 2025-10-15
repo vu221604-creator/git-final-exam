@@ -15,4 +15,6 @@
 
 **Ghi chú:** Cam kết học đều mỗi ngày ít nhất 2 tiếng.
 
+Day la noi dung moi
+
 
