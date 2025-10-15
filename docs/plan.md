@@ -14,6 +14,9 @@
 8. Chuẩn bị báo cáo và demo.
 
 **Ghi chú:** Cam kết học đều mỗi ngày ít nhất 2 tiếng.
+ 
+
+ThanhVu
 
 Day la noi dung moi
 
