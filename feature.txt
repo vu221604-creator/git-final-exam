@@ -1,0 +1,7 @@
+Tính năng: Hệ thống quản lý kế hoạch học tập.
+
+1. Cho phép người dùng thêm, sửa, xóa mục tiêu học tập.
+2. Hiển thị tiến độ học mỗi ngày.
+3. Đồng bộ dữ liệu giữa các thiết bị.
+4. Giao diện thân thiện, dễ sử dụng.
+5. Có thể mở rộng thành ứng dụng web sau này.
