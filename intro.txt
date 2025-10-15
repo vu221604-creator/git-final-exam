@@ -1,5 +1,5 @@
 Giới thiệu bản thân
-Xin chào! Tôi là Nguyễn Thanh Vũ, sinh viên năm 3 chuyên ngành Công nghệ Thông tin.
+Xin chào, Tôi là Nguyễn Thanh Vũ, sinh viên năm 3 chuyên ngành Công nghệ Thông tin.
 Tôi yêu thích lập trình và muốn phát triển kỹ năng về DevOps và Web.
 Tôi thích học những công nghệ mới và chia sẻ kiến thức với mọi người.
 Mục tiêu của tôi là trở thành một kỹ sư phần mềm chuyên nghiệp.
