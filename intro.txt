@@ -15,3 +15,9 @@ Kỹ năng:
 2. Sử dụng Git và GitHub.
 3. Làm việc nhóm và quản lý thời gian.
 
+Kế hoạch học tập:
+1. Ôn lại kiến thức cơ bản về Git và GitHub.
+2. Học thêm về Git branching, merge và rebase.
+3. Thực hành làm việc nhóm qua GitHub.
+4. Nghiên cứu CI/CD và công cụ DevOps.
+5. Tham gia dự án thực tế để áp dụng kỹ năng.
