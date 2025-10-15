@@ -1,0 +1,23 @@
+Giới thiệu bản thân
+Xin chào! Tôi là Nguyễn Thanh Vũ, sinh viên năm 3 chuyên ngành Công nghệ Thông tin.
+Tôi yêu thích lập trình và muốn phát triển kỹ năng về DevOps và Web.
+Tôi thích học những công nghệ mới và chia sẻ kiến thức với mọi người.
+Mục tiêu của tôi là trở thành một kỹ sư phần mềm chuyên nghiệp.
+Tôi luôn cố gắng cải thiện bản thân mỗi ngày.
+
+Sở thích:
+1. Lập trình và thử các dự án nhỏ.
+2. Chơi cờ vua.
+3. Nghe nhạc và đọc sách công nghệ.
+
+Kỹ năng:
+1. HTML, CSS, JavaScript cơ bản.
+2. Sử dụng Git và GitHub.
+3. Làm việc nhóm và quản lý thời gian.
+
+Kế hoạch học tập:
+1. Ôn lại kiến thức cơ bản về Git và GitHub.
+2. Học thêm về Git branching, merge và rebase.
+3. Thực hành làm việc nhóm qua GitHub.
+4. Nghiên cứu CI/CD và công cụ DevOps.
+5. Tham gia dự án thực tế để áp dụng kỹ năng.
