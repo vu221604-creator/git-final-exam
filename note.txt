@@ -1,0 +1,3 @@
+- Git giúp quản lý lịch sử dự án hiệu quả.
+- Commit giúp lưu lại từng bước thay đổi.
+- Push để đồng bộ code lên GitHub.
